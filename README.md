@@ -11,10 +11,10 @@ Hello world! I'm Nicolas Muras, an autodidact Python & C++ programmer with 3 yea
 <li><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> Fun fact: <g-emoji class="g-emoji" alias="heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png">❤️</g-emoji><g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji><g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji><g-emoji class="g-emoji" alias="star2" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f31f.png">🌟</g-emoji><g-emoji class="g-emoji" alias="open_file_folder" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c2.png">📂</g-emoji><g-emoji class="g-emoji" alias="blue_heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f499.png">💙</g-emoji><g-emoji class="g-emoji" alias="books" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png">📚</g-emoji><g-emoji class="g-emoji" alias="closed_lock_with_key" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f510.png">🔐</g-emoji><g-emoji class="g-emoji" alias="grinning" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f600.png">😀</g-emoji></li>
 </ul>
 
-- 💡 I’m currently working on ...
-- 📚 I’m currently learning ...
+- ✅ I’m currently working on my portfolio.
+- 📚 I’m currently learning about automation testing.
 - 📫 How to reach me: nicolasmuras@gmail.com | +54 3517638975
-- ⚡ Fun fact: ❤️✅🔥🌟📂💙📚🔐😀
+- 💙 I love Python and Selenium.
 <!--
 **NicolasMuras/NicolasMuras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
