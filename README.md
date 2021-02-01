@@ -1,6 +1,6 @@
 <h1>Python Developer | Automation Tester </h1>
 
-Hello world! I'm Nicolas Muras, an autodidact Python & C++ programmer with 3 years of experience of work desktop apps 🌝
+Hello world! I'm Nicolas Muras, an autodidact Python & C++ programmer with 3 years of experience in work with desktop apps 🌝
 
 <!--
 **NicolasMuras/NicolasMuras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
