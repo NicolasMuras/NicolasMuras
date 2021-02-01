@@ -1,4 +1,4 @@
-![alt text](https://github.com/NicolasMuras/NicolasMuras/blob/main/GitHub_Banner.bmp?raw=true)
+![alt text](https://github.com/NicolasMuras/NicolasMuras/blob/main/GitHub_Banner_v2.bmp?raw=true)
 
 <h1>Python Developer | Automation Tester </h1>
 
