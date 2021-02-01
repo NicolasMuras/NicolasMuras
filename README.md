@@ -1,3 +1,5 @@
+![alt text](https://github.com/NicolasMuras/NicolasMuras/blob/main/GitHub_Banner.bmp?raw=true)
+
 <h1>Python Developer | Automation Tester </h1>
 
 Hello world! I'm Nicolas Muras, an autodidact Python & C++ programmer with 3 years of experience in work with desktop apps 🌝
