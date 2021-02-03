@@ -8,7 +8,7 @@ Hello world! I'm Nicolas Muras, an autodidact Python & C++ programmer with 3 yea
 
 <ul>
 <li><g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji> I’m currently working on my portfolio.</li>
-<li><g-emoji class="g-emoji" alias="books" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png">📚</g-emoji> I’m currently learning about automation testing.</li>
+<li><g-emoji class="g-emoji" alias="books" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png">📚</g-emoji> I’m currently learning about backend.</li>
 <li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me: <a href="mailto:nicolasmuras@gmail.com">nicolasmuras@gmail.com</a> | +54 3517638975</li>
 <li><g-emoji class="g-emoji" alias="blue_heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f499.png">💙</g-emoji> I love Python and Selenium.</li>
 <li>🔒</g-emoji> Ex pentester and ethical hacker.</li>
