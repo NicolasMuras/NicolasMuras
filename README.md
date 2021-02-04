@@ -2,7 +2,7 @@
 
 <h1>Python Backend Developer</h1>
 
-Hello world! I'm Nicolas Muras, an autodidact Python & C++ programmer with 3 years of experience in work with desktop apps 🌝
+Hello world! I'm Nicolas Muras, an autodidact Python & C++ programmer with 3 years of experience in software development 🌝
 
 <h2>Things that might interest you:</h2>
 
