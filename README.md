@@ -1,6 +1,6 @@
 ![alt text](https://github.com/NicolasMuras/NicolasMuras/blob/main/GitHub_Banner_v2.bmp?raw=true)
 
-<h1>Python Developer</h1>
+<h1>Python Backend Developer</h1>
 
 Hello world! I'm Nicolas Muras, an autodidact Python & C++ programmer with 3 years of experience in work with desktop apps 🌝
 
