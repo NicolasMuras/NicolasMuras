@@ -13,17 +13,5 @@ Hello world! I'm Nicolas Muras, an autodidact Python & C++ programmer with 3 yea
 <li><g-emoji class="g-emoji" alias="blue_heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f499.png">💙</g-emoji> I love Python and Selenium.</li>
 <li>🔒</g-emoji> Pentester and ethical hacker.</li>
 </ul>
-<!--
-**NicolasMuras/NicolasMuras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-
-- 🌱 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
-- 😄 Pronouns: ...
- ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
