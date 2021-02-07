@@ -14,4 +14,4 @@ Hello world! I'm Nicolas Muras, an autodidact Python & C++ programmer with 3 yea
 <li>🔒</g-emoji> Pentester and ethical hacker.</li>
 </ul>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasMuras)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasMuras&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
