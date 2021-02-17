@@ -15,4 +15,4 @@ Hello world! Mi nombre es Nicolas Muras, soy un desarrollador autodidacta con 3 
 <li>🌝</g-emoji> Tengo mis propios equipos de desarrollo, soy una persona que arma su red de contactos y es muy participativa, tengo experiencia realizando proyectos en conjunto con otros desarrolladores.</li>
 </ul><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasMuras&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasMuras&layout=compact&theme=white)](https://github.com/anuraghazra/github-readme-stats)
