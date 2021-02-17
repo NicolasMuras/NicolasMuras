@@ -12,6 +12,6 @@ Hello world! Mi nombre es Nicolas Muras, soy un desarrollador autodidacta con 3 
 <li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> Contactame: <a href="mailto:nicolasmuras@gmail.com">nicolasmuras@gmail.com</a> | +54 3517638975</li>
 <li><g-emoji class="g-emoji" alias="blue_heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f499.png">💙</g-emoji> Mi enfoque es el backend con Python: Django REST Framework y Flask.</li>
 <li>🔒</g-emoji> Tengo experiencia en pentesting y etical hacking.</li>
-</ul>
-<br>
+</ul><br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasMuras&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
