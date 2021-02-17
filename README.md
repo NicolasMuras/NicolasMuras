@@ -4,7 +4,7 @@
 
 Hello world! I'm Nicolas Muras, an autodidact Python & C++ programmer with 3 years of experience in software development 🌝
 
-<h2>Things that might interest you:</h2>
+<h2>Mas sobre mi !:</h2>
 
 <ul>
 <li><g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji> Estoy buscando trabajo activamente, con predisposición a la relocación.</li>
