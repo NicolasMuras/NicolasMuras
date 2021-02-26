@@ -1,3 +1,4 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasMuras)](https://github.com/anuraghazra/github-readme-stats)
 ![alt text](https://github.com/NicolasMuras/NicolasMuras/blob/main/GitHub_Banner_v4.bmp?raw=true)
 
 <h1>Python Backend Developer</h1>
