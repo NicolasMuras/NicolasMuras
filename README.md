@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasMuras)](https://github.com/anuraghazra/github-readme-stats)
+
 ![alt text](https://github.com/NicolasMuras/NicolasMuras/blob/main/GitHub_Banner_v4.bmp?raw=true)
 
 <h1>Python Backend Developer</h1>
@@ -17,3 +17,4 @@ Hello world! Mi nombre es Nicolas Muras, soy un desarrollador autodidacta con 3 
 </ul><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasMuras&layout=compact&theme=white)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasMuras)](https://github.com/anuraghazra/github-readme-stats)
