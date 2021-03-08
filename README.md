@@ -2,7 +2,7 @@
 ![alt text](https://github.com/NicolasMuras/NicolasMuras/blob/main/GitHub_Banner_v4.bmp?raw=true)
 
 <h1>Python Backend Developer</h1>
-curl https://cli-assets.heroku.com/install.sh | sh
+
 Hello world! Mi nombre es Nicolas Muras, soy un desarrollador autodidacta con 3 años de formación en el desarrollo de software. 🌝
 
 <h2>Mas sobre mi:</h2>
