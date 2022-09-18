@@ -3,7 +3,7 @@
 
 <h1>Python Backend Developer</h1>
 
-Hello world! Mi nombre es Nicolas Muras, soy un desarrollador autodidacta con 4 años de formación en el desarrollo de software. 🌝
+Hello world! Mi nombre es Nicolas Muras, soy un desarrollador autodidacta con 2 años de experiencia empresarial en desarrollo de software. 🌝
 
 <h2>Mas sobre mi:</h2>
 
