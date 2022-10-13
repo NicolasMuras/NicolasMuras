@@ -10,7 +10,7 @@ Hello world! Mi nombre es Nicolas Muras, soy un desarrollador autodidacta con 2 
 <ul>
 <li><g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji> Soy desarrollador backend.</li>
 <li><g-emoji class="g-emoji" alias="books" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png">📚</g-emoji> Estoy perfeccionandome como desarrollador Backend.</li>
-<li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> Contactame: <a href="mailto:nicolasmuras@gmail.com">nicolasmuras@gmail.com</a> | </li>
+<li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> Contactame: <a href="mailto:nicolasmuras@gmail.com">aqui mismo ;)</a> | </li>
 <li><g-emoji class="g-emoji" alias="blue_heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f499.png">💙</g-emoji> Mi enfoque es el backend con Python: Django REST Framework y Micro servicios con AWS.</li>
 <li>🔒</g-emoji> Tengo experiencia en pentesting y ethical hacking.</li>
 <li>🌝</g-emoji> Mi enfoque actual es aprender sobre patrones de diseño, arquitectura y diseño de software limpio.</li>
