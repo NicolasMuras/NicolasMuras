@@ -3,17 +3,17 @@
 
 <h1>Backend Developer</h1>
 
-Hello world! Mi nombre es Nicolas Muras, soy un desarrollador autodidacta con 3 años de experiencia empresarial en desarrollo de software. 🌝
+Hello world! My name is Nicolas Muras, I am a self-taught developer with 3 years of business experience in software development. 🌝
 
-<h2>Mas sobre mi:</h2>
+<h2>About me:</h2>
 
 <ul>
-<li><g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji> Soy desarrollador backend.</li>
-<li><g-emoji class="g-emoji" alias="books" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png">📚</g-emoji> Estoy perfeccionandome como desarrollador Backend e incursionando en el Frontend.</li>
-<li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> Contactame: <a>aqui mismo ;)</a> | </li>
-<li><g-emoji class="g-emoji" alias="blue_heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f499.png">💙</g-emoji> Mi enfoque es el backend con Go y Python: Django REST Framework y Micro servicios con AWS.</li>
-<li>🔒</g-emoji> Tengo experiencia en pentesting y ethical hacking.</li>
-<li>🌝</g-emoji> Mi enfoque actual es mejorar y adquirir experiencia con Golang.</li>
+<li><g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji> I'm a backend developer.</li>
+<li><g-emoji class="g-emoji" alias="books" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png">📚</g-emoji> I am perfecting myself as a Backend developer and venturing into new technologies.</li>
+<li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> Contact me: <a>aqui mismo ;)</a> | </li>
+<li><g-emoji class="g-emoji" alias="blue_heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f499.png">💙</g-emoji> My strongest skill is with Go and Python: Django REST Framework and microservices with AWS.</li>
+<li>🔒</g-emoji> I have experience in pentesting and ethical hacking.</li>
+<li>🌝</g-emoji> I'm learning about AI and Blockchain.</li>
 </ul><br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasMuras)](https://github.com/anuraghazra/github-readme-stats)
