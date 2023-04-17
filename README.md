@@ -10,7 +10,7 @@ Hello world! My name is Nicolas Muras, I am a self-taught developer with 3 years
 <ul>
 <li><g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji> I'm a backend developer.</li>
 <li><g-emoji class="g-emoji" alias="books" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png">📚</g-emoji> I am perfecting myself as a Backend developer and venturing into new technologies.</li>
-<li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> Contact me: <a>aqui mismo ;)</a> | </li>
+<li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> Contact me: <a>aqui mismo ;)</a>  </li>
 <li><g-emoji class="g-emoji" alias="blue_heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f499.png">💙</g-emoji> My strongest skill is with Go and Python: Django REST Framework and microservices with AWS.</li>
 <li>🔒</g-emoji> I have experience in pentesting and ethical hacking.</li>
 <li>🌝</g-emoji> I'm learning about AI and Blockchain.</li>
