@@ -3,7 +3,7 @@
 
 <h1>Backend Developer</h1>
 
-Hello world! My name is Nicolas Muras, I am a self-taught developer with 3 years of business experience in software development. 🌝
+Hello world! My name is Nicolas Muras, I am a self-taught developer with 4 years of business experience in software development. 🌝
 
 <h2>About me:</h2>
 
